@@ -1,4 +1,3 @@
-# Assignmnet 1
 ## Helloooooo there
 
 Here is a meme I made using the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
